@@ -7,6 +7,10 @@ int main()
 {
 
     std::cout << "Hello world!!!" << std::endl;
+    std::cout << "Hello world!!!" << std::endl;
+
+    std::cout << "Hello world!!!" << std::endl;
+
     Geom::Point p1(10, 20);
     Geom::Point p2(3.4, 6.1);
     p1.print_info();
